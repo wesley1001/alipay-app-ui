@@ -1,24 +1,24 @@
-# alipay-app-ui
+# react-native-alipay
 
 > 基于 [React Native](https://github.com/facebook/react-native) 实现的支付宝钱包 UI 界面。
 
-# ToDoList
+# Todo List
 
 > 支付宝钱包版本号：v9.5.1
 
 - [x] 通用顶部导航
 - [x] 底部 Tab 标签
-- [ ] 通用窗口导航
-- [ ] 「支付宝」
+- [x] 通用窗口导航
+- [ ] 「支付宝」首页
   - [x] 快速入口
-  - [ ] 咻一咻动画
   - [x] app 九宫格列表
-  - [ ] app 链接
   - [ ] banner 轮播
-- [ ] 付款页面
-- [ ] 卡券页面
+- [x] app 详情页面
+- [x] 「更多」页面
+- [ ] 「付款」页面
+- [ ] 「卡券」页面
 - [ ] 「口碑」首页
-- [ ] 「朋友」首页
+- [x] 「朋友」首页
 - [ ] 「我的」首页
 
 # 截图
